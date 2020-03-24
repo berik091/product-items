@@ -1,0 +1,11 @@
+.section{
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    padding: 0;
+}
+.main-image-slider{
+    border: 1px solid red;
+    width: 700px;
+    height: 400px;
+}

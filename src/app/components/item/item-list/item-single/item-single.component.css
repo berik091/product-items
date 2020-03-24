@@ -1,0 +1,14 @@
+.section{
+    display: flex;
+    flex-wrap: nowrap;
+    border: 1px solid forestgreen;
+    margin: auto;
+    padding: 0;
+    width: 350px;
+}
+.pull-right img{
+height: 200px;
+}
+.pull-right{
+    widows: 300px;
+}
